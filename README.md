@@ -13,8 +13,6 @@ Skills: REACTJS, HTML, CSS, LESS, JS, DJANGO, JQUERY, NODE, PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dojo24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/melissa24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-longenberger/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/WolfsVeteran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/melissa-24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://melissa-longenberger.com)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dojo24)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dojo24)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dojo24&show_icons=true)  
