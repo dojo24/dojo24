@@ -1,10 +1,10 @@
-### Hi there 👋, Melissa Longenberger
+### Hi there 👋, I'm Melissa Longenberger
 #### I am an instructor at Coding Dojo
-This is my alterego I mean alter github where I keep all my instruction material [See melissa-24](https://github.com/melissa-24) for my regular github stuff.
+This is my alter-ego I mean alter-github where I keep all my instruction material [See melissa-24](https://github.com/melissa-24) for my regular github stuff.
 
 Skills: REACTJS, HTML, CSS, LESS, JS, DJANGO, JQUERY, NODE, PYTHON
 
-- 🔭 I’m currently working on teaching Django 
+- 🔭 I’m currently teaching Django 
 - 👯 I’m looking to collaborate on anything 
 - 💬 Ask me about how you can learn at Coding Dojo 
 - 📫 How to reach me: mlongenberger@codingdojo.com 
@@ -15,9 +15,7 @@ Skills: REACTJS, HTML, CSS, LESS, JS, DJANGO, JQUERY, NODE, PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dojo24)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dojo24&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dojo24)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dojo24) 
 
 ![GitHub metrics](https://metrics.lecoq.io/dojo24)  
 
