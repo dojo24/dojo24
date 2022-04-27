@@ -4,8 +4,7 @@ This is my alter-ego I mean alter-github where I keep all my instruction materia
 
 Skills: REACTJS, HTML, CSS, LESS, JS, DJANGO, JQUERY, NODE, PYTHON
 
-- 🔭 I’m currently teaching Django 
-- 👯 I’m looking to collaborate on anything 
+- 🔭 I’m currently teaching Python 
 - 💬 Ask me about how you can learn at Coding Dojo 
 - 📫 How to reach me: mlongenberger@codingdojo.com 
 - ⚡ Fun fact: I love Crocheting and Gardening outside of Coding 
